@@ -67,6 +67,7 @@
     <Content Include="Beispiele\user_read.aspx" />
     <Content Include="default.aspx" />
     <Content Include="StyleSheet.css" />
+    <Content Include="Testdokument-desktop.txt" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>
