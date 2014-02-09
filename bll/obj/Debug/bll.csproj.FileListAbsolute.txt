@@ -1,0 +1,19 @@
+c:\users\heigert\documents\visual studio 2012\Projects\Pizza\bll\bin\Debug\bll.dll
+c:\users\heigert\documents\visual studio 2012\Projects\Pizza\bll\bin\Debug\bll.pdb
+c:\users\heigert\documents\visual studio 2012\Projects\Pizza\bll\obj\Debug\bll.dll
+c:\users\heigert\documents\visual studio 2012\Projects\Pizza\bll\obj\Debug\bll.pdb
+C:\Users\heigert\Documents\Visual Studio 2012\Projects\Pizza\bll\bin\Debug\DAL.dll
+C:\Users\heigert\Documents\Visual Studio 2012\Projects\Pizza\bll\bin\Debug\DAL.pdb
+C:\Users\heigert\Documents\Visual Studio 2012\Projects\Pizza\bll\obj\Debug\bll.csprojResolveAssemblyReference.cache
+Z:\PizzaOrig\bll\bin\Debug\bll.dll
+Z:\PizzaOrig\bll\bin\Debug\bll.pdb
+Z:\PizzaOrig\bll\bin\Debug\DAL.dll
+Z:\PizzaOrig\bll\bin\Debug\DAL.pdb
+Z:\PizzaOrig\bll\obj\Debug\bll.dll
+Z:\PizzaOrig\bll\obj\Debug\bll.pdb
+Y:\Pizza\bll\bin\Debug\bll.dll
+Y:\Pizza\bll\bin\Debug\bll.pdb
+Y:\Pizza\bll\bin\Debug\DAL.pdb
+Y:\Pizza\bll\obj\Debug\bll.csprojResolveAssemblyReference.cache
+Y:\Pizza\bll\obj\Debug\bll.dll
+Y:\Pizza\bll\obj\Debug\bll.pdb

@@ -1,0 +1,27 @@
+c:\users\heigert\documents\visual studio 2012\Projects\Pizza\web\bin\web.dll
+c:\users\heigert\documents\visual studio 2012\Projects\Pizza\web\bin\web.pdb
+c:\users\heigert\documents\visual studio 2012\Projects\Pizza\web\obj\Debug\web.csprojResolveAssemblyReference.cache
+c:\users\heigert\documents\visual studio 2012\Projects\Pizza\web\obj\Debug\web.dll
+c:\users\heigert\documents\visual studio 2012\Projects\Pizza\web\obj\Debug\web.pdb
+C:\Users\heigert\Documents\Visual Studio 2012\Projects\Pizza\web\bin\bll.dll
+C:\Users\heigert\Documents\Visual Studio 2012\Projects\Pizza\web\bin\DAL.dll
+C:\Users\heigert\Documents\Visual Studio 2012\Projects\Pizza\web\bin\bll.pdb
+C:\Users\heigert\Documents\Visual Studio 2012\Projects\Pizza\web\bin\DAL.pdb
+Z:\PizzaOrig\web\bin\web.dll
+Z:\PizzaOrig\web\bin\web.pdb
+Z:\PizzaOrig\web\bin\bll.dll
+Z:\PizzaOrig\web\bin\DAL.dll
+Z:\PizzaOrig\web\bin\bll.pdb
+Z:\PizzaOrig\web\bin\DAL.pdb
+Z:\PizzaOrig\web\obj\Debug\web.csprojResolveAssemblyReference.cache
+Z:\PizzaOrig\web\obj\Debug\web.dll
+Z:\PizzaOrig\web\obj\Debug\web.pdb
+Y:\Pizza\web\bin\web.dll
+Y:\Pizza\web\bin\web.pdb
+Y:\Pizza\web\bin\bll.dll
+Y:\Pizza\web\bin\DAL.dll
+Y:\Pizza\web\bin\bll.pdb
+Y:\Pizza\web\bin\DAL.pdb
+Y:\Pizza\web\obj\Debug\web.csprojResolveAssemblyReference.cache
+Y:\Pizza\web\obj\Debug\web.dll
+Y:\Pizza\web\obj\Debug\web.pdb
